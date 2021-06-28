@@ -56,7 +56,7 @@ AfterPop()
     Sleep, 1000
 
     Loop, NbrSlotDrop{
-        ;;Send, o
+        Send, o
         Sleep, 1000
     }
     Sleep, 1000
